@@ -1,7 +1,7 @@
-const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
+const  XBOT = 'BABU'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
-const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
+const aktif = 'TERGANTUNG SINYAL:D'; // Kapan bot lu aktif
 const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCYKxsg7iF9a9IZyXQRNsvqw'; 
 const qrcode = require("qrcode-terminal");
@@ -143,25 +143,14 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, 'Owner XBOT wa.me/+6289655478810' ,MessageType.text);
+conn.sendMessage(id, 'Owner XBOT wa.me/+629514468104' ,MessageType.text);
 }
-else if (text == 'Agung'){
-conn.sendMessage(id, 'Aku BOT nya XBOT' ,MessageType.text);
-}
-else if (text == 'wenda'){
-conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
-}
-else if (text == 'bangsat'){
-conn.sendMessage(id, 'toxic terdeteksi' ,MessageType.text);
-}
-else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod?' ,MessageType.text);
-}
+
 else if (text == 'Anjing'){
-conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
+conn.sendMessage(id, 'Jangan Toxic Kak' ,MessageType.text);
 }
 else if (text == 'Bacot'){
-conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
+conn.sendMessage(id, 'Jangan Toxic Kak' ,MessageType.text);
 }
 else if (text == 'Test'){
 conn.sendMessage(id, 'Test 1,2,3 ketik #menu' ,MessageType.text);
